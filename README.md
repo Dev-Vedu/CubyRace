@@ -25,4 +25,4 @@ Created with ❤️ by **Harshal Gorde**
 
 ## 💬 About the Project
 *CubyRace* is inspired by rage classics like *Getting Over It* — built to push your patience, timing, and skill to the limit.  
-Only the calmest players will survive this challenge!
+
