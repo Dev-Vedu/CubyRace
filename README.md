@@ -19,7 +19,7 @@ Simple controls, but brutally hard gameplay. 😈
 ---
 
 ## 🧑‍💻 Credits
-Created with ❤️ by **Harsha Gorda**
+Created with ❤️ by **Harshal Gorde**
 
 ---
 
