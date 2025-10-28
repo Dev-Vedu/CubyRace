@@ -1,8 +1,7 @@
 # 🎮 CubyRace
 
 **A rage-inducing platformer that tests your patience and precision.**  
-You control a small cube that must reach the end **without touching any obstacles** — one mistake sends you back to the start!  
-Can you keep your cool and finish the race?
+You control a small cube that must reach the end **without touching any obstacles**
 
 ---
 
